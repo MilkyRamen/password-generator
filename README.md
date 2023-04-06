@@ -13,3 +13,5 @@ used code from https://stackoverflow.com/questions/59340866/random-password-gene
 MIT Liscense
 
 ## Deployed repo and website link
+repo: https://github.com/MilkyRamen/password-generator
+website: https://milkyramen.github.io/password-generator/
